@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: darkblue;
+  height: 100px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.App-title {
+  font-size: 3em;
+}
+
+.App-link {
+  font-size: 2em;
+}
